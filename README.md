@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="images/Sky-From-Scratch.png" alt="main" id="main" align="center">
-</p>
+<h4 id="main" align="center">
+    <img src="images/Sky-From-Scratch.png" alt="main" align="center">
+</h4>
 
 
 <h3 align="center">
@@ -16,12 +16,12 @@ The World got corrupted and you need survive on floating island in corrupted bet
 
 ____
 
-<p align="center">
-    <img src="images/Contents.png" alt="contents" id="contents" align="center">
+<h4 id="contents" align="center">
+    <img src="images/Contents.png" alt="contents" align="center">
 </p>
 
 <strong>
-<h3 align="center"ce>
+<h3 align="center">
 <ul>
     <li>
         <a href="TODO.md">TODO</a>
