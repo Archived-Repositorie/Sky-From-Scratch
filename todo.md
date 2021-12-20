@@ -8,6 +8,27 @@ ___
 
 <strong>
 <h3 align="center">
+<details>
+    <summary><h2>
 
+- [ ] Custom Dimensions
+  
+    </h2></summary>
+
+</details>
+
+<details>
+    <summary><h2>
+
+- [ ] Teleportation
+
+    </h2></summary>
+
+  - [ ] Stabilizator
+  - [ ] Unstabilizator
+  - [ ] Unstable portal
+  - [ ] Stable portal
+
+</details>
 </h3>
 <strong>
