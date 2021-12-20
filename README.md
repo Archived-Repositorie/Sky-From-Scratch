@@ -24,7 +24,7 @@ ____
 <h3 align="center">
 <ul>
     <li>
-        <a href="TODO.md">TODO</a>
+        <a href="todo.md">TODO</a>
     </li>
     <li>
         <a href="links.md">Links</a>
