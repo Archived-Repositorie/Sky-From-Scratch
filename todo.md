@@ -1,4 +1,4 @@
-<p href="../">🡸 Go back</p>
+<a href="../">🡸 Go back</a>
 
 <h4 id="main" align="center">
     <img src="images/TODO.png" alt="main" align="center">
