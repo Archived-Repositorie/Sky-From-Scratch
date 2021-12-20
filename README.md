@@ -20,7 +20,6 @@ ____
     <img src="images/Contents.png" alt="contents" id="contents" align="center">
 </p>
 
-___
 <strong>
 <h3 align="center"ce>
 <ul>
@@ -57,3 +56,5 @@ ___
 </ul>
 </h3>
 </strong>
+
+___
