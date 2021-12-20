@@ -15,7 +15,7 @@ The World got corrupted and you need survive on floating island in corrupted bet
 <strong>
 <h3>
 <ul>
-    <li>TODO</li>
+    <li><a href="TODO.md">TODO</a></li>
     <li>CurseForge</li>
     <li>Download</li>
     <li>Credits</li>
@@ -25,6 +25,7 @@ The World got corrupted and you need survive on floating island in corrupted bet
     <li>Features</li>
     <li>Known Issues</li>
     <li>Screen Shots</li>
+    <li>License</li>
 </ul>
 </h3>
 </strong>
