@@ -7,10 +7,10 @@
 ___
 
 <strong>
-<h2 align="center">
+<h1 align="center">
     Creators 
-    <h3 align="center">
+    <h2 align="center">
         <a href="https://github.com/JustFoxx">Just Fox</a>
-    </h3>
-</h2>
+    </h2>
+</h1>
 <strong>
