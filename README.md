@@ -18,7 +18,7 @@ ____
 
 <h4 id="contents" align="center">
     <img src="images/Contents.png" alt="contents" align="center">
-</p>
+</h4>
 
 <strong>
 <h3 align="center">
