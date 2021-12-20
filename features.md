@@ -8,6 +8,19 @@ ___
 
 <strong>
 <h3 align="center">
-
+<details>
+    <summary><h2>Custom Datapack</h2></summary>
+    <ul>
+        <li>
+            Custom Worlds
+        </li>
+        <li>
+            Custom Join Effect
+        </li>
+        <li>
+            Custom Effects
+        </li>
+    </ul>
+</details>
 </h3>
 <strong>
