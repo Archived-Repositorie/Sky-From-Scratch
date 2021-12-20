@@ -13,6 +13,7 @@ The World got corrupted and you need survive on floating island in corrupted bet
 
 ## ![contents](images/Contents.png)
 <strong>
+<h4>
 <ul>
     <li>TODO</li>
     <li>CurseForge</li>
@@ -25,4 +26,5 @@ The World got corrupted and you need survive on floating island in corrupted bet
     <li>Known Issues</li>
     <li>Screen Shots</li>
 </ul>
+</h4>
 </strong>
