@@ -6,8 +6,8 @@
 
 ___
 
-<strong>
-<dl align="center">
+<strong align="center">
+<dl>
     <dt>
         <h1>Creators</h1>
     </dt>
