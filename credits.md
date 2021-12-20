@@ -8,7 +8,11 @@ ___
 
 <strong>
 <h1 align="center">
-    Creators 
-    <a href="https://github.com/JustFoxx">Just Fox</a>
+<dl>
+    <dt>Creators</dt>
+    <dd>
+        <a href="https://github.com/JustFoxx">Just Fox</a>
+    </dd>
+</dl>
 </h1>
 <strong>
