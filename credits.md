@@ -9,8 +9,6 @@ ___
 <strong>
 <h1 align="center">
     Creators 
-    <h2 align="center">
-        <a href="https://github.com/JustFoxx">Just Fox</a>
-    </h2>
+    <a href="https://github.com/JustFoxx">Just Fox</a>
 </h1>
 <strong>
