@@ -8,6 +8,6 @@ ___
 
 <strong>
 <h3 align="center">
-
+    Creator: <a href="https://github.com/JustFoxx">Just Fox</a>
 </h3>
 <strong>
