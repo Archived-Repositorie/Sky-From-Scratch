@@ -14,7 +14,7 @@ ___
 - [ ] Custom Dimensions
   
     </h2></summary>
-
+    - [ ] Thinking what to add here
 </details>
 
 <details>
@@ -28,6 +28,28 @@ ___
   - [ ] Unstabilizator
   - [ ] Unstable portal
   - [ ] Stable portal
+
+</details>
+
+<details>
+    <summary><h2>
+
+- [ ] Ending
+
+    </h2></summary>
+
+  - [ ] TOP SECRET
+
+</details>
+
+<details>
+    <summary><h2>
+
+- [ ] Easter Eggs
+
+    </h2></summary>
+
+  - [ ] TOP SECRET
 
 </details>
 </h3>
