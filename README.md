@@ -1,12 +1,6 @@
-<style>
-.font {
-    font-family: "Lucida Console", "Courier New";
-    font-weight: bold;
-}
-</style>
 # ![](images/Sky-From-Scratch.png)
 
-<h3 align="center" class="font">
+<h3 align="center">
 The World got corrupted and you need survive on floating island in corrupted between dimension... | Minecraft Modpack
 <h3>
 
@@ -18,15 +12,17 @@ The World got corrupted and you need survive on floating island in corrupted bet
 </h4>
 
 ## ![](images/Contents.png)
-<ul class="font">
+<strong>
+<ul>
     <li>TODO</li>
     <li>CurseForge</li>
-    <li> Download</li>
-    <li> Credits</li>
-    <li> Mod List</li>
-    <li> ScreenShots</li>
-    <li> Quests</li>
-    <li> Features</li>
-    <li> Known Issues</li>
-    <li> Screen Shots</li>
+    <li>Download</li>
+    <li>Credits</li>
+    <li>Mod List</li>
+    <li>ScreenShots</li>
+    <li>Quests</li>
+    <li>Features</li>
+    <li>Known Issues</li>
+    <li>Screen Shots</li>
 </ul>
+</strong>
