@@ -1,0 +1,1 @@
+execute unless score @p timer matches 1 at @p run scoreboard players set @p first 1

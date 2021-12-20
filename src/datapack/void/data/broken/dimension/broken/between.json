@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+            "biome": "minecraft:badlands",
+            "lakes": false,
+            "features": false,
+            "layers": [
+                {
+                    "block": "minecraft:air",
+                    "height": 2032
+                }
+            ],
+            "structures": {
+                "structures": {}
+            }
+        }
+    }
+}
