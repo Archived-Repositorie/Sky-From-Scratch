@@ -15,17 +15,36 @@ The World got corrupted and you need survive on floating island in corrupted bet
 <strong>
 <h3>
 <ul>
-    <li><a href="TODO.md">TODO</a></li>
-    <li>CurseForge</li>
-    <li>Download</li>
-    <li>Credits</li>
-    <li>Mod List</li>
-    <li>ScreenShots</li>
-    <li>Quests</li>
-    <li>Features</li>
-    <li>Known Issues</li>
-    <li>Screen Shots</li>
-    <li>License</li>
+    <li>
+        <a href="TODO.md">TODO</a>
+    </li>
+    <li>
+        <a href="links.md">Links</a>
+    </li>
+    <li>    
+        <a href="download.md">Download</a>
+    </li>
+    <li>
+        <a href="credits.md">Credits</a>
+    </li>
+    <li>
+        <a href="modlist.md">Mod List</a>
+    </li>
+    <li>
+        <a href="screenshots.md">ScreenShots</a>
+    </li>
+    <li>
+        <a href="quests.md">Quests</a>
+    </li>
+    <li>
+        <a href="features.md">Features</a>
+    </li>
+    <li>
+        <a href="issues.md">Known Issues</a>
+    </li>
+    <li>
+        <a href="LICENSE">License</a>
+    </li>
 </ul>
 </h3>
 </strong>
