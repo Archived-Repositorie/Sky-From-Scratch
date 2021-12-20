@@ -6,13 +6,13 @@
 
 ___
 
-<strong align="center">
+<strong>
 <dl>
     <dt>
-        <h1>Creators</h1>
+        <h1 align="center">Creators</h1>
     </dt>
     <dd>
-        <a href="https://github.com/JustFoxx">Just Fox</a>
+        <a align="center" href="https://github.com/JustFoxx">Just Fox</a>
     </dd>
 </dl>
 <strong>
