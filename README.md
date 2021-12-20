@@ -1,4 +1,4 @@
-# ![](images/Sky-From-Scratch.png)
+# ![main](images/Sky-From-Scratch.png)
 
 <h3 align="center">
 The World got corrupted and you need survive on floating island in corrupted between dimension... | Minecraft Modpack
@@ -11,7 +11,7 @@ The World got corrupted and you need survive on floating island in corrupted bet
     </strong>
 </h4>
 
-## ![](images/Contents.png)
+## ![contents](images/Contents.png)
 <strong>
 <ul>
     <li>TODO</li>
