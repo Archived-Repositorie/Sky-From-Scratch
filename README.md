@@ -22,8 +22,8 @@ ____
 
 ___
 <strong>
-<h3>
-<ul align="center">
+<h3 align="center"ce>
+<ul>
     <li>
         <a href="TODO.md">TODO</a>
     </li>
