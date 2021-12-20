@@ -7,12 +7,14 @@
 ___
 
 <strong>
+<div align="center">
 <dl>
-    <dt align="center">
+    <dt>
         <h1>Creators</h1>
     </dt>
-    <dd align="center">
+    <dd>
         <a href="https://github.com/JustFoxx">Just Fox</a>
     </dd>
 </dl>
+</div>
 <strong>
