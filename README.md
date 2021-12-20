@@ -23,7 +23,7 @@ ____
 ___
 <strong>
 <h3>
-<ul>
+<ul align="center">
     <li>
         <a href="TODO.md">TODO</a>
     </li>
