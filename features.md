@@ -12,7 +12,7 @@ ___
     <summary><h2>Custom Datapack</h2></summary>
     <ul>
         <li>
-            Custom Worlds
+            Custom Dimensions
         </li>
         <li>
             Custom Join Effect
