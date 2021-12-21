@@ -7,4 +7,4 @@ execute at @p[scores={joined=0}] if score @p[scores={joined=0}] first matches 1 
 execute at @p[scores={joined=0}] if score @p[scores={joined=0}] first matches 0 run function join:joineffectd
 execute at @p[scores={joined=0}] if score @p[scores={joined=0}] first matches 0 run function join:joineffecta
 execute at @p[scores={joined=0}] run scoreboard players add @p[scores={joined=0,first=0}] joined 1
-execute at @a if entity @a  first matches 0 run function join:joineffecta
+execute as @a if score @s timer matches 4800 run function void:sound

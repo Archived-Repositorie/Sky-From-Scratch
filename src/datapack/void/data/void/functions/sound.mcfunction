@@ -1,2 +1,3 @@
-playsound ambient.cave ambient @a
-playsound block.end_portal.spawn ambient @a
+playsound ambient.cave ambient @s
+playsound block.end_portal.spawn ambient @s
+scoreboard players set @a timer 0
