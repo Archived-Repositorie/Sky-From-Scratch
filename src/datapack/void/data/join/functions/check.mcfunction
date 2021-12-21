@@ -1,1 +1,1 @@
-execute unless score @p timer matches 1 at @p run scoreboard players set @p first 1
+execute if entity @a[scores={first=0}] at @p run scoreboard players set @p first 1

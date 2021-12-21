@@ -1,3 +1,4 @@
+execute if score @p timer matches 1 run execute at @p in broken:broken/between run function skyblock:teleport
 execute if score @p timer matches 1 run effect give @p minecraft:blindness 5 255 true
 execute if score @p timer matches 1 run effect give @p minecraft:slowness 10 255 true
 execute if score @p timer matches 1 run effect give @p minecraft:weakness 15 1 true
