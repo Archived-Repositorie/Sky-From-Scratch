@@ -9,11 +9,11 @@ ___
 <strong>
 <h3 align="center">
 <details>
-    <summary><h2><strong>
+    <summary><strong><h2>
 
 - [ ] Custom Dimensions
   
-    </strong></h2></summary>
+    </h2></strong></summary>
 
     - [ ] Thinking what to add here
   
