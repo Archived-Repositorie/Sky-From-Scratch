@@ -20,11 +20,11 @@ ___
 </details>
 
 <details>
-    <summary><h2><strong>
+    <summary><strong><h2>
 
 - [ ] Teleportation
 
-    </strong></h2></summary>
+    </h2></strong></summary>
 
   - [ ] Stabilizator
   - [ ] Unstabilizator
@@ -34,22 +34,22 @@ ___
 </details>
 
 <details>
-    <summary><h2><strong>
+    <summary><strong><h2>
 
 - [ ] Ending
 
-    </strong></h2></summary>
+    </h2></strong></summary>
 
   - [ ] TOP SECRET
 
 </details>
 
 <details>
-    <summary><h2><strong>
+    <summary><strong><h2>
 
 - [ ] Easter Eggs
 
-    </strong></h2></summary>
+    </h2></strong></summary>
 
   - [ ] TOP SECRET
 
