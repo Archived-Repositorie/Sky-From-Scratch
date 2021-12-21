@@ -9,22 +9,22 @@ ___
 <strong>
 <h3 align="center">
 <details>
-    <summary><h2>
+    <summary><h2><strong>
 
 - [ ] Custom Dimensions
   
-    </h2></summary>
+    </strong></h2></summary>
 
     - [ ] Thinking what to add here
   
 </details>
 
 <details>
-    <summary><h2>
+    <summary><h2><strong>
 
 - [ ] Teleportation
 
-    </h2></summary>
+    </strong></h2></summary>
 
   - [ ] Stabilizator
   - [ ] Unstabilizator
@@ -34,25 +34,25 @@ ___
 </details>
 
 <details>
-    <summary><h2>
+    <summary><h2><strong>
 
 - [ ] Ending
 
-    </h2></summary>
+    </strong></h2></summary>
 
   - [ ] TOP SECRET
 
 </details>
 
 <details>
-    <summary><h2>
+    <summary><h2><strong>
 
 - [ ] Easter Eggs
 
-    </h2></summary>
+    </strong></h2></summary>
 
   - [ ] TOP SECRET
 
 </details>
 </h3>
-<strong>
+
